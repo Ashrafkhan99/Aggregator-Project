@@ -1,6 +1,4 @@
-# Aggregator-Project
-
-# Aggregator Application
+# Aggregator-Project Application
 
 The Aggregator Application is a Spring Boot-based project that provides a personalized news aggregation experience. It allows users to register, set preferences, fetch news articles, and save their favorite articles securely.
 
